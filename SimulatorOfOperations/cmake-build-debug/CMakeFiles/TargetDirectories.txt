@@ -1,0 +1,3 @@
+C:/develop/Skillboxcpp/25-practical/SimulatorOfOperations/cmake-build-debug/CMakeFiles/SimulatorOfOperations.dir
+C:/develop/Skillboxcpp/25-practical/SimulatorOfOperations/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/develop/Skillboxcpp/25-practical/SimulatorOfOperations/cmake-build-debug/CMakeFiles/rebuild_cache.dir
