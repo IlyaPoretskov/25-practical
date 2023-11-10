@@ -4,3 +4,4 @@ project(SimulatorOfOperations)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(SimulatorOfOperations src/main.cpp include/tools.h src/tools.cpp)
+target_include_directories(SimulatorOfOperations PUBLIC include)

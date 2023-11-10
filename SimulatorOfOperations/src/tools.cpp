@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-#include "../include/tools.h"
+#include "tools.h"
 
 void scalpel(coordinate x, coordinate y)
 {
