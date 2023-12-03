@@ -1,0 +1,8 @@
+# ninja log v5
+2	355	7232936752598441	build.ninja	1655857ff0655fb3
+4	491	7213365582164077	CMakeFiles/ComputerSimulatorProject.dir/src/computer.cpp.obj	d8b95fde3836753
+2	385	7232429987966642	src/CMakeFiles/ComputerSimulatorProject.dir/computer.cpp.obj	e33a0459e0680d8a
+3	369	7213377265937710	CMakeFiles/ComputerSimulatorProject.dir/src/main.cpp.obj	2813da9ff65db8ab
+497	1044	7213365587622775	ComputerSimulatorProject.exe	b17b17418cc828fe
+2	438	7232934804607792	src/CMakeFiles/ComputerSimulatorProject.dir/main.cpp.obj	ac94c75a56f164a8
+439	987	7232934810048558	src/ComputerSimulatorProject.exe	994d5daab0bb0467

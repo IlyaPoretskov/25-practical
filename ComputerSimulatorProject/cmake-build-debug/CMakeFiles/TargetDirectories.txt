@@ -1,0 +1,5 @@
+C:/develop/Skillboxcpp/25-practical/ComputerSimulatorProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/develop/Skillboxcpp/25-practical/ComputerSimulatorProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/develop/Skillboxcpp/25-practical/ComputerSimulatorProject/cmake-build-debug/src/CMakeFiles/ComputerSimulatorProject.dir
+C:/develop/Skillboxcpp/25-practical/ComputerSimulatorProject/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/develop/Skillboxcpp/25-practical/ComputerSimulatorProject/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
